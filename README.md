@@ -19,9 +19,10 @@ I am a **Technical Sales Leader & AI-Driven Solutions Architect** with over 20 y
   - Enterprise Solution Design
 
 - **Programming Languages**:
-  - Python (Advanced)
+  - Python (Exper)
   - Perl (Expert)
   - PHP (Expert)
+  - Shell (BASH / ZSH) (Expert)
   - Go (Exploring)
   - Rust (Exploring)
 
@@ -46,7 +47,7 @@ I am committed to continuous professional development, focusing on:
 
 ### 🤝 Let's Connect
 - **LinkedIn**: [Aravind Nirmal Kumar](https://www.linkedin.com/in/aravindnirmalkumar/)
-- **Email**: aravindnk30@gmail.com
+- **Email**: [upon request]
 
 ### 🌍 Cultural Adaptability
 I have extensive experience managing global teams and navigating multicultural environments. I am currently learning German to enhance my professional communication skills in the EU market.
